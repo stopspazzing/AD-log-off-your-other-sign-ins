@@ -1,1 +1,1 @@
-# MOVED TO CODEBERGE: https://codeberg.org/StopSpazzing/
+# MOVED TO CODEBERG: https://codeberg.org/StopSpazzing/
